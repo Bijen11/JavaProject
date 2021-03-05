@@ -20,7 +20,7 @@ public class CurrencyPanel extends JPanel {
 	private JLabel label;
 	private JLabel countNumber;
 	private JComboBox<String> combo;
-	private final String aboutmessage="Author:Neha Pandey "+ "\n Symbolno: 7227231"+ "\nPurpose:To convert different currency units" +"\u00a9 2020";
+	private final String aboutmessage="Author:Bijen Shahi "+ "\n Symbolno: 7227231"+ "\nPurpose:To convert different currency units" +"\u00a9 2020";
 	private final String errorMessageEmptyField="Field is empty.";
 	private final String numberFormatError="Field contains special charecters or alphabets.";
 	private int Conversioncount = 0;
